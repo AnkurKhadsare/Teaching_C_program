@@ -1,2 +1,2 @@
-# Teaching_C_program
+# Teaching_C_programming
 Repository To Teach Basic C Programming
